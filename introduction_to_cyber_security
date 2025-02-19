@@ -1,1 +1,83 @@
+***/// Kibertəhlükəsizlik nədir \\\***
+1) 
+          Kiber təhlükəsizlik; Kompüterlərin, serverlərin, mobil qurğuların, elektron sistemlərin, şəbəkələrin və
+        məlumatların zərərli hücumlardan qorunması praktikasıdır. Həmçinin informasiya texnologiyalarının təhlükəsizliyi
+        və ya elektron informasiya təhlükəsizliyi kimi tanınır. 
 
+                                                                                      -Kaspersky-
+2) 
+    Kibertəhlükəsizliyin növləri
+    
+    > 1. Son istifadəçi təlimi / End user training
+
+             Son istifadəçi təlimi ən gözlənilməz kibertəhlükəsizlik faktoruna ünvanlanıb: İNSANLAR !
+          Yaxşı təhlükəsizlik qaydalarına riayət etməyən hər kəs təsadüfən başqa bir təhlükəsiz 
+          sistemə yoluxabilər.Istifadəçilərə məlum olmayan USB sürücülərini cihazlarına  daxil etməmək,
+          şübhəli e-poçt əlavələrini necə silmək lazım olduğunu öyrətmək. Müxtəlif  dərsləri hər
+          hansı bir təşkilatın təhlükəsizliyi üçün olduqca vacibdir.
+
+    > 2. İnformasiya təhlükəsizliyi / İnformation Security
+
+              İnformasiya təhlükəsizliyi məlumatların bütövlüyünü və məxfiliyini qoruyur. Həm saxlama, həm də ötürmə zamanı.
+
+    > 3. Şəbəkə təhlükəsizliyi / Network Security
+
+              Serverlər və hostlar, təhlükəsizlik duvarları və simsiz giriş
+          nöqtələri və şəbəkə protokolları daxil olmaqla, əməliyyat
+          sistemlərinizə və şəbəkə arxitekturanıza təsir edən zəifliklərin
+          aradan qaldırılmasını əhatə edir. 
+
+            -istər hədəfə alınmış hücumçulardan, istərsə də opportunistik
+          malware olan kompüter şəbəkəsini intruderlərdən qorumaq praktikasıdır.
+
+    > 4. Tətbiq təhlükəsizliyi / Application security
+
+              Tətbiq təhlükəsizliyi proqram təminatının və ya veb-saytın dizaynı, kodlaşdırılması və nəşri 
+            zamanı təhlükəsiz inkişaf proseslərindən yaranannzəifliklərin aradan qaldırılmasını əhatə edir.
+
+    > 5. Operativ təhlükəsizlik / Operational security
+
+              Operativ təhlükəsizliyə məlumat fəaliyyətlərin işlənməsi və mühafizəsi ilə bağlı proses və qərarlar daxildir. 
+          Bura şəbəkəyə daxil olarkən istifadəçilərin malik olduğu icazələr və məlumatların necə və harada saxlanıla və ya 
+          paylaşıla biləcəyini müəyyən edən prosedurlar daxildir.  
+
+    > 6. Fəlakətlərin bərpası və Biznesin davamlılığı / Disaster recovery and business continuity
+
+              Fəlakət Bərpası (Disaster Recovery) və Biznesin Davamlılığı (Business Continuity), bir təşkilatın fəlakətlər, 
+          təbii fəlakətlər, kiberhücumlar və ya sistem qəzaları kimi gözlənilməz hadisələr zamanı fəaliyyətini davam etdirməsinə
+          yönəlmiş iki əlaqəli anlayışdır. Hər ikisi də təşkilatların qarşılaşa biləcəyi problemlərə qarşı hazırlıq görmələrini 
+          təmin edir, amma hər birinin özünə məxsus məqsədləri və yanaşmaları vardır.
+
+    > 7. Şeylərin İnterneti Təhlükəsizliyi / İoT(İnternet of Things) Security
+
+              IoT təhlükəsizliyi (Internet of Things - İnternetə qoşulmuş Cihazlar Təhlükəsizliyi), internetə qoşulmuş cihazların, 
+          şəbəkələrin və sistemlərin təhlükəsizliyini təmin etməyi məqsəd qoyan bir sahədir. IoT cihazları, fərdi cihazlardan 
+          (məsələn, ağıllı telefonlar, televizorlar və ya ev avtomatlaşdırma sistemləri) tutmuş, sənaye tətbiqlərinə qədər
+          (sənaye avadanlıqları, nəqliyyat vasitələri və smart şəhərlər) çox geniş bir sahəni əhatə edir.
+
+          IoT təhlükəsizliyi, bu cihazların və əlaqəli şəbəkələrin qorunmasını və etibarlı işləməsini təmin etmək üçün 
+          müxtəlif texnologiyalar,alətlər və proseslərdən istifadə edir. İnternetə qoşulmuş cihazlar və şəbəkələr çox sayda
+          zəifliklərlə qarşılaşa bilər, belə ki, bu cihazlar çox vaxt zəif parollar, gücsüz şifrələmə və azsaylı təhlükəsizlik
+          tədbirləri ilə istifadə edilə bilir.
+
+    > 8. Bulud təhlükəsizliyi / Cloud security
+
+              Cloud security (Bulud təhlükəsizliyi), bulud xidmətləri və infrastrukturunun qorunmasını təmin etmək üçün tətbiq edilən təhlükəsizlik
+          tədbirləri, protokolları və strategiyalarının cəmidir. Bulud xidmətləri, şirkətlərin və fərdi istifadəçilərin məlumatlarını və tətbiqlərini
+          internet üzərindən saxlamağa və işlətməyə imkan verir. Lakin bu, bəzi təhlükəsizlik riskləri və təhdidlər yaradır, çünki məlumatlar və 
+          xidmətlər fiziki olaraq istifadəçinin özünün idarə etdiyi sistemlərdə deyil, uzaq serverlərdə saxlanılır.
+
+          Bulud təhlükəsizliyi, bu məlumatların və xidmətlərin qorunması məqsədilə tətbiq olunan müxtəlif texnologiyaları
+          və yanaşmaları əhatə edir. Bu tədbirlər, məlumatların oğurlanması, təhrif edilməsi və ya itirilməsi kimi riskləri
+          minimuma endirməyə kömək edir.
+
+***/// Kiber Məkan / Cyber Space \\\***
+
+              Kiber məkan (Cyberspace), rəqəmsal cihazlar, şəbəkələr, internet və digər kompüter sistemləri vasitəsilə
+          məlumatların və kommunikasiya proseslərinin meydana gəldiyi virtual bir məkanı təsvir edən bir anlayışdır.
+          Kiber məkan, fiziki dünyadan ayrıdır və burada müxtəlif fəaliyyətlər həyata keçirilir, məsələn, məlumat mübadiləsi,
+          sosial əlaqələr, kommersiya əməliyyatları, təhsil, tədqiqat və müxtəlif onlayn xidmətlər.
+
+          Bu məkan, insanların və cihazların internet üzərindən qarşılıqlı əlaqə qurduğu, məlumatların ötürüldüyü və 
+          saxlandığı bir mühitdir. Kiber məkan, həmçinin şəbəkə təhlükəsizliyi, kiberhücumlar və məlumat sızması kimi 
+          rəqəmsal təhdidlərin də mövcud olduğu bir alandır.

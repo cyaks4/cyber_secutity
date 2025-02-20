@@ -187,15 +187,15 @@ __________________________________________________________________
                               çoxlu kompüterlər və cihazlardan istifadə edərək həyata keçirilir.
 
                     
-                    Ransomware (Şantaj Proqramları): Bu növ hücumda, hücumçu qurbanın məlumatlarını şifrələyərək və ya bloklayaraq, 
-                    məlumatların "qurtarılması" üçün müəyyən bir məbləğ ödəməsini tələb edir.
+                              Ransomware (Şantaj Proqramları): Bu növ hücumda, hücumçu qurbanın məlumatlarını şifrələyərək və ya bloklayaraq, 
+                              məlumatların "qurtarılması" üçün müəyyən bir məbləğ ödəməsini tələb edir.
 
                     - DNS (Təsir ərazisi Adı Sistemi) hücumları / DNS (Domain Name System) attacks
 
-                    DNS hücumu (DNS Attack), Domain Name System (DNS) sistemindəki zəifliklərdən və ya səhvlərdən istifadə edərək, 
-                    şəbəkə trafikini yönəltmək, məlumatları oğurlamaq və ya şəbəkənin fəaliyyətini pozmaq məqsədilə həyata keçirilən 
-                    zərərli fəaliyyətlərdir. DNS, internetdəki domen adlarını IP ünvanlarına çevirən sistemdir, buna görə də DNS-in hər 
-                    hansı bir zəifliyi və ya pozulması, internet trafikinə ciddi təsir göstərə bilər.
+                              DNS hücumu (DNS Attack), Domain Name System (DNS) sistemindəki zəifliklərdən və ya səhvlərdən istifadə edərək, 
+                              şəbəkə trafikini yönəltmək, məlumatları oğurlamaq və ya şəbəkənin fəaliyyətini pozmaq məqsədilə həyata keçirilən 
+                              zərərli fəaliyyətlərdir. DNS, internetdəki domen adlarını IP ünvanlarına çevirən sistemdir, buna görə də DNS-in hər 
+                              hansı bir zəifliyi və ya pozulması, internet trafikinə ciddi təsir göstərə bilər.
 
                     - İnfektə olunmuş zombi şəbəkə hücumları / Bot-Net attacks
 

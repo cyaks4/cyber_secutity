@@ -1,4 +1,7 @@
+_______________________________________
 ***/// Kibertəhlükəsizlik nədir \\\***
+---------------------------------------
+
 1) 
           Kiber təhlükəsizlik; Kompüterlərin, serverlərin, mobil qurğuların, elektron sistemlərin, şəbəkələrin və
         məlumatların zərərli hücumlardan qorunması praktikasıdır. Həmçinin informasiya texnologiyalarının təhlükəsizliyi
@@ -70,9 +73,9 @@
           Bulud təhlükəsizliyi, bu məlumatların və xidmətlərin qorunması məqsədilə tətbiq olunan müxtəlif texnologiyaları
           və yanaşmaları əhatə edir. Bu tədbirlər, məlumatların oğurlanması, təhrif edilməsi və ya itirilməsi kimi riskləri
           minimuma endirməyə kömək edir.
-
+________________________________________
 ***/// Kiber Məkan / Cyber Space \\\***
-
+----------------------------------------
               Kiber məkan (Cyberspace), rəqəmsal cihazlar, şəbəkələr, internet və digər kompüter sistemləri vasitəsilə
           məlumatların və kommunikasiya proseslərinin meydana gəldiyi virtual bir məkanı təsvir edən bir anlayışdır.
           Kiber məkan, fiziki dünyadan ayrıdır və burada müxtəlif fəaliyyətlər həyata keçirilir, məsələn, məlumat mübadiləsi,
@@ -81,3 +84,247 @@
           Bu məkan, insanların və cihazların internet üzərindən qarşılıqlı əlaqə qurduğu, məlumatların ötürüldüyü və 
           saxlandığı bir mühitdir. Kiber məkan, həmçinin şəbəkə təhlükəsizliyi, kiberhücumlar və məlumat sızması kimi 
           rəqəmsal təhdidlərin də mövcud olduğu bir alandır.
+
+_________________________________________________________________________________
+***/// Kim kibertəhlükəsizliyə ehtiyyac duyur? / Who needs Cyber Security?\\\***
+---------------------------------------------------------------------------------
+
+            Kiber təhlükəsizlik bu günümüzün rəqəmsal dövründə hər hansı bir iş üçün vacib bir aspektdir.
+          Artıq sadəcə əlavə bir seçim deyil, şirkətlərin sağ qalması və məlumatlarının qorunması üçün bir 
+          
+           zərurətdir. Bəs kiber təhlükəsizliyin müştəriləri kimlərdir? Cavab sadədir: onlayn təhlükəsizliyini
+          qiymətləndirən hər kəs, o cümlədən:
+
+
+                    > C-Suite İcraçıları: Şirkətin ümumi təhlükəsizliyinə cavabdeh olduqlarından, kiber təhlükəsizlik 
+                              onların ən önəmli prioritetlərindən biridir. Şirkətin məlumatlarının və həssas məlumatlarının qorunmasını təmin etməlidirlər.
+
+                    > Texnologiya Memarları: Bu peşəkarlar, təşkilatlarının sistemləri və infrastrukturunun təhlükəsizliyini təmin etməkdən
+          
+                              məsuldurlar. Onlar istifadəçilər üçün təhlükəsiz sistemlər və şəbəkələr dizayn etməyə kömək edərək şirkətin məlumatlarını 
+                              kiber təhdidlərdən qoruyurlar.
+
+                     > Təhlükəsizlik Analitikləri və Məsləhətçiləri: Onlar müştərilərə məlumat təhlükəsizliyi siyasətləri və protokolları
+                              barədə məsləhət verirlər, sistemlərdə və şəbəkələrdə zəiflikləri müəyyən edirlər. Risk qiymətləndirməsi yolu ilə, şirkətin
+                              məlumatlarını qorumaq və kiber hücumların qarşısını almaq üçün ən yaxşı addımları müəyyənləşdirə bilərlər.
+
+                     > Proqramçılar: Kiber təhlükəsizlik təhdidləri daim inkişaf etdiyindən, proqramçı komandaları öz məhsullarının təhlükəsiz
+                              və hər hansı bir potensial təhdidə qarşı davamlı olmasını təmin etməlidirlər. Onlar təhlükəsizlik protokollarını və 
+                              ən yaxşı təcrübələri başa düşməli, istifadəçilərin məlumatlarının açıqlanması və zədələnməsi riskini minimuma endirməlidirlər.
+
+                     > Sahibkarlar: Startaplar və kiçik bizneslər böyüdükcə və inkişaf etdikcə, onların təsisçiləri bizneslərinə yönələn
+                              kiber təhdidlərdən xəbərdar olmalıdırlar. Kiber təhlükəsizlik tədbirlərinə önəm verməmək, onların şirkətlərini ciddi risklərə
+                              məruz qoya bilər və bu da şirkətin nüfuzunun zədələnməsinə və ya məhkəmə iddialarına yol aça bilər.
+
+           >>>       Nəticə olaraq, kiber təhdidlərdən xəbərdar olmaq və effektiv təhlükəsizlik tədbirləri tətbiq etmək, məlumatlarını və onlayn
+                              təhlükəsizliklərini qiymətləndirən bütün bizneslər və peşəkarlar üçün vacibdir. Həssas məlumatları qorumaq, məlumat pozuntularının,
+                              hüquqi məsuliyyətin və nüfuz zərərinin qarşısını almaq üçün kiber təhlükəsizliyin müştərilərinin əsas prioriteti olmalıdır.
+
+______________________________________________________________________________          
+***/// Onlayn və Offlayn şəxsiyyətlər / Online & Offline Personalities \\\***
+------------------------------------------------------------------------------
+
+          > Offline  şəxsiyyət
+
+                    Onlayn şəxsiyyət, insanların internet üzərindən və ya rəqəmsal platformalar vasitəsilə başqaları 
+                    ilə necə ünsiyyət qurduqlarını və özlərini necə təqdim etdiklərini təsvir edir. Bu, sosial media 
+                    platformalarında, forumlarda, oyunlarda, onlayn chat-larda və digər rəqəmsal mühitlərdə görünən şəxsiyyətdir.
+
+          > Online şəxsiyyət 
+
+                    Oflayn şəxsiyyət, insanların fiziki və real dünyada bir-biri ilə ünsiyyət qurduqları zaman göstərdikləri
+                    davranışlar və sosial xüsusiyyətlərdir. Bu şəxsiyyət insanların fiziki qarşılıqlı əlaqələrində özünü
+                    göstərir və real həyat şəraitində baş verir.
+
+__________________________________________________________
+***/// İnformasiya tipləri / Types of İnformation \\\***
+----------------------------------------------------------
+
+         1- Özəl / Private
+
+          > Özəl məlumat, şəxslərə və ya təşkilatlara məxsus, məxfi və qorunan məlumatlardır. 
+          Bu məlumatlar yalnız müəyyən şəxslərin və ya qurumların istifadəsinə verilə bilər 
+          və yalnız icazə ilə paylaşılmalıdır.
+
+                    - Şəxsi identifikasiya məlumatları (ad, soyad, doğum tarixi, ünvan)
+                    - Bank hesabı məlumatları
+                    - Sosial təminat nömrəsi (SSN)
+                    - Şəxsi səhiyyə məlumatları (xəstəlik tarixçəsi, müalicə məlumatları)
+                    - Şəxsi e-poçt yazışmaları və telefon nömrələri
+                    - Şirkətlərin ticarət sirri və ya iş müqavilələri
+                    
+         1- Hərkəsə Açıq / Public
+
+          > İctimai məlumat, ümumi olaraq hər kəsin əldə edə biləcəyi, geniş yayılmış və ictimaiyyətə açıq olan məlumatlardır. 
+          Bu növ məlumatlar, heç bir məxfilik və ya şəxsi məlumat təhlükəsizliyi təminatı olmadan yayımlanır və hər kəsin 
+          istifadəsinə açıqdır.
+
+                    - Dövlət məlumatları (büdcə hesabatları, qanunvericilik aktları)
+                    - Şirkətlərin ümumi maliyyə hesabatları
+                    - İctimai fəaliyyətlər haqqında xəbərlər
+                    - Axtarış motorlarında yerləşən vebsayt məlumatları
+                    - Hava durumu məlumatları
+__________________________________________________________________
+***/// Kiber təhlükələrin növləri / Types of cyber threats \\\***
+------------------------------------------------------------------
+         
+                    > Kiber hücum / Cyber attack
+                    Kiber hücum (Cyber Attack), bir şəxsin, qrupun və ya təşkilatın, kompüter sistemləri, şəbəkələr, 
+                    xidmətlər və ya rəqəmsal məlumatlara icazəsiz giriş əldə etməsi və ya onları zərərli şəkildə
+                    dəyişdirməsi, məhv etməsi və ya oğurlaması məqsədilə həyata keçirdiyi qəsdən edilən hücumdur. 
+                    Kiber hücumlar fərqli metodlarla həyata keçirilə bilər və müxtəlif məqsədlərlə (məlumat oğurluğu,
+                    şəbəkə pozulması, maddi zərər və s.) edilə bilər.
+                    
+                    - DoS/DDoS hücumları
+
+                              DoS (Denial of Service) DoS (Denial of Service) - Xidmətin Rədd Edilməsi Hücumu, hədəf alınan bir sistemin,
+                              şəbəkənin və ya xidmətin fəaliyyətini dayandırmağa və ya kəsilməsinə səbəb olan bir kiber hücum növüdür. 
+                              Bu hücumun məqsədi, hədəf sisteminin və ya şəbəkəsinin istifadəçilər tərəfindən normal şəkildə istifadə 
+                              edilməsini əngəlləmək və onun fəaliyyətini dayandırmaqdır.
+
+                              DDoS (Distributed Denial of Service) Hücumları: Bu hücum növü, bir veb saytı və ya şəbəkə xidmətini kütləvi 
+                              trafiklə aşırı yükləyərək onun fəaliyyətini dayandırmağa yönəlir. DDoS hücumları, hücum edənlər tərəfindən 
+                              çoxlu kompüterlər və cihazlardan istifadə edərək həyata keçirilir.
+
+                    
+                    Ransomware (Şantaj Proqramları): Bu növ hücumda, hücumçu qurbanın məlumatlarını şifrələyərək və ya bloklayaraq, 
+                    məlumatların "qurtarılması" üçün müəyyən bir məbləğ ödəməsini tələb edir.
+
+                    - DNS (Təsir ərazisi Adı Sistemi) hücumları / DNS (Domain Name System) attacks
+
+                    DNS hücumu (DNS Attack), Domain Name System (DNS) sistemindəki zəifliklərdən və ya səhvlərdən istifadə edərək, 
+                    şəbəkə trafikini yönəltmək, məlumatları oğurlamaq və ya şəbəkənin fəaliyyətini pozmaq məqsədilə həyata keçirilən 
+                    zərərli fəaliyyətlərdir. DNS, internetdəki domen adlarını IP ünvanlarına çevirən sistemdir, buna görə də DNS-in hər 
+                    hansı bir zəifliyi və ya pozulması, internet trafikinə ciddi təsir göstərə bilər.
+
+                    - İnfektə olunmuş zombi şəbəkə hücumları / Bot-Net attacks
+
+                    
+                    - Zərərli proqram əsaslı hücumlar / Mallware based attacks
+                              1. Şantaj programları / Ransomwares
+
+                                        Ransomware (Şantaj Proqramları): Bu növ hücumda, hücumçu qurbanın məlumatlarını şifrələyərək və ya bloklayaraq, 
+                                        məlumatların "qurtarılması" üçün müəyyən bir məbləğ ödəməsini tələb edir.
+
+                              2. Troya Atı / Trojan
+
+                                        Trojan (Trojan Horse), Trojan at və ya Trojan virusu olaraq da bilinən, zərərli bir proqram növüdür ki, 
+                                        istifadəçini aldatmaq yolu ilə kompüterə və ya şəbəkəyə gizlicə daxil olur. Trojan, adını qədim Yunan
+                                        mifologiyasındakı "Troya atı"ndan alır. Əfsanəyə görə, Yunanlar Troya şəhərinə gizlincə daxil olmaq üçün
+                                        böyük bir ağac atı içində gizlənmişdilər. Eyni şəkildə, bir Trojan proqramı da istifadəçinin bilgisayarına
+                                        "gizli" olaraq daxil olur, istifadəçinin icazəsini alaraq və ya onları aldatmaq yolu ilə sistemə daxil olur.
+
+                              3. Uzaqdan İdarə olunan Troya Atı / RAT(Remote Access Trojan)
+
+                                        RAT (Remote Access Trojan), uzaqdan kompüterə daxil olmaq və ona tam nəzarət etmək üçün istifadə edilən 
+                                        zərərli bir proqram növüdür. RAT, hücumçulara hədəf sistemə uzaqdan daxil olmağa və kompüter üzərində 
+                                        müxtəlif əməliyyatlar aparmağa imkan verir. Bu proqram, istifadəçinin bilik və icazəsi olmadan kompüterdə 
+                                        gizli şəkildə fəaliyyət göstərir.
+
+                              4. Viruslar / Viruses
+
+                                        Virus, kompüter sistemlərinə və proqramlarına zərər vermək və ya onların normal fəaliyyətini pozmaq məqsədilə 
+                                        yazılmış zərərli bir proqramdır. Viruslar, kompüterin əməliyyat sistemi, tətbiq proqramları və fayllarla qarşılıqlı 
+                                        əlaqə quraraq, özünü çoxaldır və digər kompüterlərə yayıla bilər. Bir kompüterə daxil olduqda, viruslar gizli şəkildə 
+                                        işləməyə başlayır və istifadəçinin və ya administratorun məlumatı olmadan sistemə zərər verə bilər.
+
+                              5. Soxulcanlar / Worms
+
+                                        Worm (İngiliscə "İrəliləyici Zərərli Proqram") kompüter şəbəkələrinə yayılan və özünü çoxaldaraq sistemlər arasında 
+                                        yayılan zərərli proqramdır. Worm, virus-dan fərqli olaraq, fəaliyyət göstərmək və özünü çoxaltmaq üçün heç bir fayla 
+                                        qoşulmağa ehtiyac duymaz. Wormlar, şəbəkələrdə və internetdə sürətlə yayıla bilər və adətən böyük zərərlər törədə bilər.
+
+                              6. Cəsus Proqramları / Spywares
+
+                                        Spyware (İngiliscə "Casus proqramı") gizli şəkildə kompüter və ya mobil cihazda işləyən və istifadəçinin 
+                                        fəaliyyətlərini izləyən, şəxsi məlumatları oğurlayan və ya başqa zərərli əməliyyatlar həyata keçirən zərərli 
+                                        bir proqramdır. Spyware, adətən istifadəçi tərəfindən qəsdən və ya qəsdən olmadan yüklənir və istifadəçinin 
+                                        icazəsi olmadan arxa planda işləyir.
+
+                              7. İlkin yükləmə direktoriyası dəsti proqramları / Bootkit
+
+                                        Bootkit (Boot Kit), kompüterin açılış prosesini (boot process) hədəf alan zərərli proqramdır. Rootkit-lərə bənzəyir, 
+                                        amma onlar kompüterin boot sektorunda və ya sistemin yükləmə mərhələsində yerləşir. Bootkit, kompüterin açılışı zamanı 
+                                        yüklenən proqramları dəyişdirir və ya manipulyasiya edir. Bu, zərərli proqramın sistemin ən dərin qatlarına daxil olmasına 
+                                        və çox vaxt sistemin normal fəaliyyətini pozmadan gizlənməsinə imkan verir.
+
+                              8. Admin, SuperAdmin,Kök istifadəçi direktoriyası dəsti proqramları / Rootkit
+
+                                        Rootkit (İngiliscə "Root kit") kompüterə daxil olaraq sistemin dərin qatlarında gizlənən və istifadəçinin fəaliyyətini 
+                                        izləyən və ya zərərli əməliyyatlar həyata keçirən bir zərərli proqramdır. Rootkit, "root" adlandırılan yüksək səlahiyyətli 
+                                        istifadəçi (administrator) səviyyəsinə çataraq sistemə tam nəzarət edir və çox vaxt istifadəçinin bu proqramı aşkar etməsini 
+                                        çətinləşdirir. Bu, rootkitləri ən təhlükəli zərərli proqramlardan biri edir, çünki onlar gizli şəkildə işləyir və sistemin 
+                                        normal fəaliyyətini poza bilər.
+
+
+                    - Arxa Qapı'lar / Backdoors
+
+                              Backdoor (Arxa qapı), bir sistemə və ya proqram təminatına qeyri-qanuni olaraq gizli və qeyri-şəffaf şəkildə daxil olmağa imkan verən 
+                              bir üsuldur. Başqa sözlə, backdoor, sistemin normal təhlükəsizlik tədbirlərini keçərək uzaqdan və gizli şəkildə sistemə 
+                              daxil olmağa imkan tanıyan bir qapıdır. Backdoor-lar çox vaxt istifadəçilərdən gizlənir və zərərli məqsədlər üçün istifadə oluna bilər.
+
+                    - Formların oğurlanması / Formjacking
+
+                              Formjacking (formaların oğurlanması) veb saytlarında istifadəçilərin məlumatlarını oğurlamaq üçün həyata keçirilən bir növ kiber hücumdur. 
+                              Bu hücumda hakerlər, veb saytların forma (məsələn, əlaqə formaları, giriş formaları, ödəmə məlumatları və s.) səhifələrinə gizli şəkildə 
+                              zərərli skriptlər yerləşdirirlər. Bu skriptlər istifadəçilər tərəfindən forma doldurularkən, onların şəxsi məlumatlarını (şifrələr, 
+                              kredit kartı nömrələri, adlar, ünvanlar və s.) toplayır və bu məlumatları hakerlərə göndərir.
+
+                    - Kripto oğurlama / Cryptojacking 
+
+                              Cryptojacking (kriptovalyuta mədənçiliyi oğurluğu), hakerlərin və ya zərərli proqramların başqa şəxslərin kompüterlərini və ya cihazlarını 
+                              gizli şəkildə istifadə edərək kriptovalyuta mədənçiliyi etməsinə verilən addır. Bu hücum növündə, hakerlər istifadəçilərin icazəsi olmadan 
+                              onların cihazlarının hesablama gücünü ələ keçirir və bu gücü özlərinə kriptovalyuta (adətən Bitcoin, Monero və ya digər populyar kriptovalyutalar) 
+                              mədənçiliyi üçün istifadə edirlər.
+
+                    - Sosial mühəndislik / Social engineering
+
+                              Sosial mühəndislik insanların davranışlarını istismar edərək məlumat əldə etməyə çalışan kiber təhlükə növüdür. Hücumçular, insanların 
+                              inamını qazanaraq və ya onları çaşdıraraq gizli məlumatları ələ keçirir.
+
+                    - Baliqlama / Fishing
+          
+                              Phishing kiber təhlükəsi, insanları təhlükəsiz məlumatlarını (məsələn, istifadəçi adları, şifrələr və ya maliyyə məlumatları) ortaya qoymağa cəlb edən 
+                              sosial mühəndislik üsuludur. Hücumçular özlərini etibarlı bir qurum kimi təqdim edərək insanları aldatmağa çalışırlar.                    
+
+                    - Kiber cəsusləq / Cyber espionage
+
+                              Kiber casusluq dövlətlər və ya təşkilatlar tərəfindən rəqiblərindən məlumat oğurlamaq üçün istifadə edilən kiber hücum növüdür. 
+                              Bu, adətən, dövlət tərəfindən dəstəklənən hücumlar olur.
+
+                    - Məlumatın Sızması / Data Breach
+
+                              Məlumatın sızması şəxsi və ya gizli məlumatların icazəsiz şəxslər tərəfindən əldə edilməsi və ya açıqlanmasıdır. Bu, hakerlər, 
+                              daxili təhdidlər və ya məlumatların yanlış idarə olunması nəticəsində baş verə bilər. Məlumatın sızması nəticəsində identifikasiya oğurluğu, 
+                              maliyyə itkisi və ya hüquqi nəticələr yaranır. 
+
+                    - İçərdən Təhlükələr / Insider Threats
+
+                              İçərdən təhlükələr təşkilat daxilindəki bir işçi və ya müqavilə əsasında çalışan şəxs tərəfindən tətbiq olunan təhdidlərdir. 
+                              Bunlar həm qəsdən, həm də qəsdən olmayan şəkildə baş verə bilər.
+
+                    - İrəliləmiş Davamlı Təhdidlər / APT(Advanched Persistent Threats) 
+
+                              APT (Advanced Persistent Threats) hücumları davamlı və məqsədli hücumlardır, adətən dövlət tərəfindən dəstəklənir və uzun müddət ərzində 
+                              məxfi məlumatları oğurlamaq məqsədini güdür. Hücumçular sistemə daxil olduqdan sonra uzun müddət boyu gizli qalaraq məlumat toplayırlar.
+                    - 0 cı gün zəyiflliyi istismarı / Zero-Day Exploits
+
+                     >>       Zero Day vulnerability / Sıfırıncı gün zəyifliyi nədir? 
+                              "Sıfırıncı gün zəyifliyi hər hansı bir sistemdə, programda, cihazda və s. daha öncə heç-kimin bilmədiyi yanlız 1 nəfər tərəfindən tapılan və
+                                  gizli tutulan təhlükəsizlik zəyifliyidir"
+
+                              Zero-day zəiflikləri, proqram təminatında və ya avadanlıqda bilinməyən zəifliklərdən istifadə edən kiber təhlükələrdir. Bu zəifliklər, 
+                              proqram təminatçıları tərəfindən hələ tapılmadığı və düzəldilmədiyi üçün çox təhlükəlidir.
+
+                    - Təchizat Zənciri Hücumları / Supply Chain Attacks
+
+                              Təchizat zənciri hücumları üçüncü tərəf xidmət təminatçılarının və ya təchizatçıların hədəf alınmasıdır. Hücumçular bir təchizatçı və ya 
+                              xidmət təminatçısının sistemlərini zəiflədir və əsas təşkilatlara daxil olmaq üçün bunu istifadə edirlər.
+
+                    - IoT Zəiflikləri / IoT Vulnerabilities
+
+                              Bağlantılı cihazların (İnternetə Qoşulmuş Cihazlar, IoT) sayının artması ilə bu cihazları hədəf alan kiber təhlükələr də artır. 
+                              Bir çox IoT cihazları zəif təhlükəsizlik xüsusiyyətlərinə sahibdir və bunlar kiber cinayətkarlar üçün cəlbedici hədəflərdir.
+
+
+                              

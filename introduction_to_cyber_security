@@ -328,6 +328,211 @@ __________________________________________________________________
 
                               Bağlantılı cihazların (İnternetə Qoşulmuş Cihazlar, IoT) sayının artması ilə bu cihazları hədəf alan kiber təhlükələr də artır. 
                               Bir çox IoT cihazları zəif təhlükəsizlik xüsusiyyətlərinə sahibdir və bunlar kiber cinayətkarlar üçün cəlbedici hədəflərdir.
+____________________________________________________
+***/// Kiber cinayətkarlar / Cyber criminals \\\***
+----------------------------------------------------
 
+          1) Daxili cinayətkarlar
 
+                    - Köhnə işçilər
+                    - Sözləşməli tərəfdaşlar
+                    - Güvənilən ortaqlar
+                    
+          2) Xarici cinayətkarlar
+
+                    - Hakerlər (Professionallar)
+
+                              > Black-Hat (Qara şapkalılar)
+
+                              Qara şapkalı hackerlər icazələri olmadan sistemlərdə və şəbəkələrdə təhlükəsizlək testləri 
+                              aparırlar və tapdıqları təhlükəsizlik boşluqlarından öz mənfəətləri üçün istifadə edirlər.
                               
+                              > Grey-Hat (Boz şapkalılar)
+
+                              Boz şapkalı hackerlər icazələri olmadan sistemlərdə və şəbəkələrdə təhlükəsizlək testləri 
+                              aparırlar və tapdıqları təhlükəsizlik boşluqlarından öz mənfəətləri üçün istifadə edə və 
+                              ya o boşluğu rapor edirlər.
+
+                              > White-Hat (Ağ şapkalılar)
+
+                              Ağ  şapkalı hackerlər icazələri olan sistemlərdə və şəbəkələrdə təhlükəsizlək testləri 
+                              aparırlar və tapdıqları təhlükəsizlik boşluqlarından istifadə etmədən bağlanılması ücün rapor  
+                              edirlər.
+                    
+                              > Red-Hat (Qırmızı şapkalılar)
+
+                              Qırmızı şapkalı hackerlər şirkətlərə olunan qanuni atakları təspit edib qarşısını 
+                              almaq üçün mübarizə aparan  və hücüm edən Qara-şapkalı hackerləri aşkarlamaq üçün lazım gələrsə hər cür illegal yolları
+                              istifadə etmə səlahiyyətina sahib hacker'lardır.
+
+                              > Blue-Hat (Mavi Şapkalılar)
+
+                              Bu hackerlər hackerlərdək şəxsi qisas alınması və açılış öncəsi sistemlərin və şəbəkələrin təhlükəsizlik 
+                              boşluqlarını aşkarlamaq üçün kənardan dəvət olunmuş hackerlərdir.
+
+                              > Yello-Hat (Sarı şapkalılar)
+
+                              Sarı Şapkalılar kiber təhlükəsizlik dünyasında daha az rastlanan və konkret olaraq geniş qəbul edilmiş bir 
+                              termin deyil. Lakin bəzi mənbələrdə Sarı Şapkalılar insanları sosial mühəndislik və insan faktoru üzərində 
+                              çalışan hackerlər olaraq təsvir edirlər. Onlar əsasən, təhlükəsizlik zəifliklərini aşkar etmək və ya təhlil 
+                              etmək üçün istifadəçilərin davranışlarını öyrənirlər. Yəni, sarı şapkalı hackerlər təhlükəsizlik məsələlərini 
+                              yalnız texniki tərəfdən deyil, həm də insanların sosial və psixoloji tərəflərini nəzərə alaraq həll etməyə çalışırlar.
+
+                    - Mütəşəkkil hücumçular
+
+                              > Hacktivist'lər (Sosial-İqtisadi və s məqsədlər uğruna hack'lə məşğul olanlar)
+
+                              Hactivistlər kiber hücumları siyasi və sosial məqsədlərlə həyata keçirən, ideoloji və ya aktivist bir məqsəd güdən 
+                              hackerlərə verilən addır. "Hacktivist" sözü "hack" (hakerlik) və "activist" (aktivist) sözlərinin birləşməsindən 
+                              yaranıb. Hacktivistlər, kiber hücumları öz ideoloji məqsədlərini həyata keçirmək, diqqət çəkmək və ya müəyyən bir 
+                              sosial və ya siyasi səbəbə dəstək vermək üçün istifadə edirlər.
+
+                              > Cyber terrorist'lər
+
+                              Kiber terroristlər kiber hücumları, qorxu yaratmaq, insanları və ya cəmiyyətləri ciddi şəkildə zərər vermək məqsədilə 
+                              həyata keçirən şəxslərə və ya qruplara verilən addır. Kiber terrorizm, ənənəvi terrorizmlə bənzər şəkildə, rəqəmsal 
+                              alətlərdən istifadə edərək, fiziki və ya mənəvi təsirlər yaratmağa çalışır.
+
+                              > APT(Advancher Persistent Threat) - (İnkişaf etmiş Davamlı Təhdidlər)
+
+                              İnkişaf etmiş Davamlı Təhlükə deməkdir və bu, təşkilatlanmış, yaxşı təchiz olunmuş və uzun müddət davam edən kiber 
+                              hücumları təmsil edən bir termindir. APT-lər xüsusi hədəflərə yönəlik və çox zaman dövlətlər, iri təşkilatlar və ya 
+                              digər strateji obyektlərə qarşı həyata keçirilən hücumlardır. APT-lərin əsas xüsusiyyəti onların məqsədli, davamlı və çox mərhələli olmasıdır.
+
+                              APT-lər, əsasən, yüksək təcrübəyə və resurslara sahib olan kiber hücum qruplarını ifadə edir. Bu qruplar çox zaman dövlətlər və ya 
+                              xüsusi maraqlar üçün fəaliyyət göstərən təşkilatlar tərəfindən idarə olunur. APT-lərin məqsədi, hədəf təşkilatlarının və ya 
+                              dövlətlərin məlumatlarını oğurlamaq, sistemlərini pozmaq, sabitliyini sarsıtmaq və ya digər strateji məqsədlərə çatmaqdır.
+                    
+                    - Həvəskarlar  (Yeni başlayan təctübəsizlər)
+
+                              > Script kiddies (Təcrübəsiz Hücumçular)
+
+                              Bunlartəcrübəsiz və ya bilikləri məhdud olan, kiber hücumlar həyata keçirmək üçün hazır skriptlər və proqramlar istifadə edən 
+                              şəxslər üçün istifadə edilən bir termindir. Onlar özləri orijinal hackinq alətləri yaratmazlar və ya dərin texniki biliklərə 
+                              malik olmazlar, lakin mövcud olan alətləri (skriptləri) istifadə edərək hücumlar edirlər.
+
+                              > Green-Hat (Yaşıl şapkalılar)
+
+                              Bunlar kiber təhlükəsizlik sahəsində daha az tanınan bir anlayışdır və yaşıl şapkalı hackerlər kiber təhlükəsizlik sahəsində 
+                              yenidir və bu sahədə təcrübə qazanmağa çalışan şəxslərdir. Onlar ümumiyyətlə peşəkar hackerlər olmaq istəyirlər, lakin hələ 
+                              texniki bilik və bacarıqlarını inkişaf etdirirlər.
+
+                              > Pink-Hat (Çəhrayı Şapkalılar)
+
+                              Çəhrayı Şapkalılar kiber təhlükəsizlik dünyasında bu termin bəzi hallarda ağ şapkalılar və boz şapkalılar arasında bir növ 
+                              "qarışıq" və daha əyləncəli yanaşma ilə tanınan hackerləri təsvir etmək üçün istifadə edilir. Pink-hat hackerləri ənənəvi 
+                              olaraq kiber təhlükəsizlik dünyasında çox geniş yayılmamış və daha az təmsil olunan bir qrupdur. Bu termini bəzi mütəxəssislər, 
+                              əsasən social engineering (sosial mühəndislik) və bədii hakerlik fəaliyyəti ilə məşğul olan şəxsləri tanımaq üçün istifadə edirlər.
+
+______________________________________________________________________________________________________________________
+***/// Məlumatda Məxfilik / Bütövlük / Əlçatanlıq  /  CİA (Confidentiality / İntegrity / Accesability) of Data \\\***
+----------------------------------------------------------------------------------------------------------------------
+
+
+          1) Məxfilik 
+
+                    Məlumatın yalnız icazə verilmiş şəxslər tərəfindən əldə edilməsini təmin etmək. Bu prinsipin məqsədi, 
+                    həssas məlumatların sızdırılmasının qarşısını almaqdır. Gizlilik, şifrələmə, parol qorunması və istifadəçi 
+                    identifikasiyası kimi texnologiyalarla təmin edilir.
+
+          2) Bütövlük ( Tamlıq )
+
+                    Məlumatın düzgün və dəyişdirilməz olmasını təmin etmək. Məlumatın heç bir icazəsiz şəkildə dəyişdirilməsi, 
+                    silinməsi və ya əlavə edilməməsi lazımdır. Bütövlük, məlumatın doğruluğunu qorumağa kömək edir.
+
+          3) Əlçatanlıq ( Mövcudluq )
+
+                    Məlumatın istifadəçilər üçün davamlı və əlçatan olmasını təmin etmək. Bu, məlumatın istifadəçilər və sistemlər 
+                    tərəfindən hər zaman görünür və əldə ediləbilən olmasını nəzərdə tutur. Mövcudluq, serverlərin işlək vəziyyətdə olması, 
+                    məlumat bazalarının və şəbəkə resurslarının dayanıqlı olmasını təmin edir.
+
+_______________________________________________________________________________________
+***/// Təhlükəsizlik testləri və onun növləri / Penetration tests and its types \\\***
+---------------------------------------------------------------------------------------
+
+
+          Pentest və ya sızma testi, bir təşkilatın kompüter sistemlərinin, şəbəkələrinin və tətbiqlərinin təhlükəsizlik zəifliklərini aşkar etmək 
+          məqsədilə həyata keçirilən bir testdir. Bu testin məqsədi, sistemlərə icazəsiz daxil olmaq və ya müxtəlif hücum növlərini simulyasiya edərək, 
+          təşkilatın təhlükəsizlik səviyyəsini qiymətləndirməkdir. Pentest nəticəsində tapılan zəifliklər, təşkilatın təhlükəsizlik tədbirlərini 
+          gücləndirmək üçün istifadə olunur.
+
+
+          1) Qara-qutu pentest / Black-Box
+                    Bu növdə test edilən sistemin və ya şəbəkənin təhlükəsizliyini qiymətləndirmək üçün hackerlərə
+                    heç bir məlumat verilməz. Test edən şəxslər sistem haqqında heç bir əvvəlcədən məlumat almazlar.
+
+                    Məqsəd, xarici hücumçunun (hackerin) necə bir sistemə daxil ola biləcəyini öyrənməkdir.
+
+                    Hədəf: Sistemə daxil olmaq üçün lazım olan zəiflikləri aşkar etmək.
+
+          2) Ağ-qutu Pentest / White-Box
+
+                    Bu növdə test edən şəxslərə sistem və ya şəbəkə haqqında geniş məlumat verilir. 
+                    Bu məlumatlar, sistemin arxitekturası, şəbəkə quruluşu, kod və konfiqurasiyalarını 
+                    əhatə edə bilər.
+                    
+                    Məqsəd, bir təcrübəli hakerin sistemin daxilindəki zəiflikləri tapmaq üçün istifadə etdiyi yanaşmanı simulyasiya etməkdir.
+
+                    Hədəf: Məlumatlı hücum və zəiflikləri tapmaq üçün daha detallı və daha dərindən yoxlama.
+
+          3) Boz-Qutu Pentest / Gray-Box
+                    
+                    Bu test növü, həm ağ qutu, həm də qara qutu testlərinin birləşməsidir. Test edən şəxslər müəyyən məlumatlara sahibdirlər 
+                    (məsələn, sistemin bəzi hissələrinə dair məlumat), lakin bütün məlumatlara malik deyillər.
+
+                    Bu yanaşma, hibrid bir yanaşma olaraq qəbul edilir, çünki həm xarici hücumçuların perspektivini, 
+                    həm də sistemin daxili perspektivini simulyasiya edir.
+
+                    Hədəf: Sistemin daxili və xarici zəifliklərini həm birgə tapmaq, həm də potensial hücumları qiymətləndirmək.     
+
+          4) Xarici Sızma Testi / External Penetration Testing 
+
+                    Bu test, şəbəkə və ya tətbiqetmənin xarici interfeysini hədəf alır. Məqsəd, 
+                    bir hakerin təşkilatın sisteminə xaricdən necə daxil ola biləcəyini təhlil etməkdir.
+                    
+                    Test olunan sistemlərə internet üzərindən (məsələn, veb saytlar, şəbəkə portları) hücum edilir.
+
+                    Hədəf: Xarici hücum nöqtələrini (məsələn, zəif parol, açıq portlar və ya zəif şifrələmə) tapmaq. 
+
+          5) Daxili Sızma Testi / Internal Penetration Testing 
+
+                    Bu test təşkilatın daxili şəbəkələrini və sistemlərini hədəf alır. 
+                    Testçi, təşkilat daxilində bir istifadəçi və ya admin olaraq fəaliyyət göstərir.
+
+                    Məqsəd, bir daxili işçinin və ya xarici hücumçunun fiziki və ya şəbəkə yolu ilə 
+                    daxil olaraq, təşkilatın şəbəkə və məlumatlarına necə müdaxilə edə biləcəyini öyrənməkdir.
+
+                    Hədəf: Daxili zəiflikləri aşkar etmək və sistemin daxili təhlükəsizlik səviyyəsini qiymətləndirmək.
+
+
+          6) Veb Tətbiq Sızma Testi / Web Application Penetration Testing 
+
+                    Bu növ testlər, təşkilatların internet üzərindən təqdim etdikləri veb tətbiqlərini hədəf alır.
+
+                    Məqsəd, veb tətbiqlərinin zəifliklərini tapmaq, məsələn, SQL injection, 
+                    Cross-Site Scripting (XSS), session hijacking və digər zərərli müdaxilələri simulyasiya etməkdir.
+
+                    Hədəf: Veb tətbiqetmələrində olan zəiflikləri aşkar etmək və istifadəçilərin məlumatlarını qorumaq.
+
+
+          7) Simli Şəbəkə Sızma Testi / Wireless Network Penetration Testing 
+
+                    Bu test, təşkilatın simli şəbəkələrini və Wi-Fi şəbəkələrini hədəf alır.
+
+                    Məqsəd, şəbəkənin təhlükəsizlik protokollarını test etmək və simli və simsiz əlaqələrin zəifliklərini tapmaqdır.
+
+                    Hədəf: Şəbəkə bağlantılarının şifrələnməsi və şəbəkə üzərindəki zəiflikləri aşkar etmək.
+          
+          8) Sosial Mühəndislik Sızma Testi / Social Engineering Penetration Testing 
+
+                    Bu testdə əsas məqsəd, insanları manipulyasiya edərək onların məlumatlarını əldə etməkdir.           
+                    Hakerlər, sistemlərə daxil olmaq üçün sosial mühəndislik taktikalardan istifadə edirlər.
+
+                    Bu, phishing, pretexting və baiting kimi metodlarla həyata keçirilir.
+
+                    Hədəf: İnsanları manipulyasiya edərək, təşkilatın məlumatlarını və sistemlərinə girmək.
+
+
+
+
+
